@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/primaryColor</color>
+    <color name="colorPrimaryDark">@color/primaryDarkColor</color>
+    <color name="colorAccent">@color/secondaryColor</color>
+
+
+    <color name="primaryColor">#1e1e2c</color>
+    <color name="primaryDarkColor">#191928</color>
+    <color name="secondaryColor">#f15393</color>
+    <color name="windowColor">#1e1e2c</color>
+    <color name="colorWhite">#ffff</color>
+    <color name="colorVariant">#5c5a7a</color>
+    <color name="colorDividerDark">#10101a</color>
+</resources>

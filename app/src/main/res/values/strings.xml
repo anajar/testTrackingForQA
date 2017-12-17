@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Tracker</string>
+
+    <string name="title_activity_main">Tracker</string>
+
+    <string name="action.logout">Logout</string>
+
+    <string name="prompt.drawer.open">Open Drawer</string>
+
+    <string name="prompt.drawer.close">CloseF Drawer</string>
+    <string name="title_activity_tracking">Tracking</string>
+
+</resources>

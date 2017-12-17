@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast.message.location">Sorry we cannot locate your location</string>
+    <string name="toast.message.play.service">Please install or update your google play service</string>
+</resources>

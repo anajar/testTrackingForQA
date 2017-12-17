@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title.activity.login">Sign in</string>
+
+    <string name="action.sign.in">Sign in or register</string>
+    <string name="action.sign.in.short">Sign in</string>
+    <!-- copy right-->
+    <string name="action.terms">By clicking on signup you are accepting the\n<b>Terms &amp; Conditions</b></string>
+
+    <!-- Strings related to login -->
+    <string name="prompt.email">Email</string>
+    <string name="prompt.password">Password</string>
+    <string name="prompt.login.user">User founded successfully please wait for login</string>
+
+    <string name="error.invalid.email">This email address is invalid</string>
+    <string name="error.invalid.password">This password is too short</string>
+    <string name="error.incorrect.password">This password is incorrect</string>
+    <string name="error.field.required">This field is required</string>
+
+
+    <string name="permission.rationale">"Contacts permissions are needed for providing email completions."</string>
+
+</resources>
